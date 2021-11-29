@@ -1,0 +1,20 @@
+{
+  "name": "express-mongo-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pacool84/express-mongo-crud.git"
+  },
+  "keywords": [],
+  "author": "pacool84",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pacool84/express-mongo-crud/issues"
+  },
+  "homepage": "https://github.com/pacool84/express-mongo-crud#readme"
+}
